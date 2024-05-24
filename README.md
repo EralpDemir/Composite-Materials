@@ -13,7 +13,7 @@ Them-files with the prefixes contain the functions related to:
 The userinputs are given in the m-file the suffix "_inputs". 
 i.e. "FEM_inputs.m" contains the inputs related with FEM calculations.
 
-- References for plate compliance optimization
+- "\compliance_optimization": in-plane and out-of-plane optimization for compliance/stiffness
 
     https://doi.org/10.1016/j.compositesb.2019.02.004
 
@@ -22,14 +22,14 @@ i.e. "FEM_inputs.m" contains the inputs related with FEM calculations.
     https://doi.org/10.1016/j.addma.2020.101728
 
 
-- Reference for plate natural frequency optimization
+- "\frequency_optimization": plate natural frequency optimization
 
     https://doi.org/10.1016/j.compstruct.2021.115151
 
 
-- Reference for plate buckling load optimization
+- "\buckling_optimization": critical buckling load optimization
 
     submitted
 
 
-The stream function analysis is also included under the folder named "stream_function".
+- "\stream_function_analysis": Stream function fit for continuous tow paths
