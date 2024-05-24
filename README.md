@@ -7,7 +7,7 @@ Them-files with the prefixes contain the functions related to:
 - "FEM_": finite elements
 - "MAT_": material stiffness
 - "LP_" : lamination parameter
-- "LSC_": least-square and curvature constraints
+- "LSC_": least-squares and curvature constraints
 - "OPT_": optimization
 
 The userinputs are given in the m-file the suffix "_inputs". 
@@ -30,3 +30,6 @@ i.e. "FEM_inputs.m" contains the inputs related with FEM calculations.
 - Reference for plate buckling load optimization
 
     submitted
+
+
+The stream function analysis is also included under the folder named "stream_function".
