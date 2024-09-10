@@ -1,9 +1,12 @@
-#UMAT for assigning varying angles to elements.
+# UMAT for assigning varying angles to elements
+
 Fiber angles vary according to the ref. https://doi.org/10.1016/j.compositesa.2007.11.015 
 
-![drawing](https://github.com/user-attachments/assets/0bebc5b4-1555-4e22-914f-876abaece4bc)
+![drawing](https://github.com/user-attachments/assets/9c3c89b3-2e08-4d28-8e65-08862b1c0a8a)
 
-According to
+According to equation:
+
+![image](https://github.com/user-attachments/assets/0f64f160-672b-43f2-a2c6-b728388a68bd)
 
 
 
