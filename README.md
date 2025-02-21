@@ -29,7 +29,7 @@ i.e. "FEM_inputs.m" contains the inputs related with FEM calculations.
 
 - "/buckling_optimization": critical buckling load optimization
 
-    submitted
+    https://doi.org/10.1016/j.compstruct.2025.118945
 
 
 - "/stream_function_analysis": Stream function fit for continuous tow paths
